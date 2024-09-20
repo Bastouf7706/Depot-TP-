@@ -1,0 +1,14 @@
+C:\Users\basti\source\repos\Projet test class\Projet test class\bin\Debug\net8.0\Projet test class.exe
+C:\Users\basti\source\repos\Projet test class\Projet test class\bin\Debug\net8.0\Projet test class.deps.json
+C:\Users\basti\source\repos\Projet test class\Projet test class\bin\Debug\net8.0\Projet test class.runtimeconfig.json
+C:\Users\basti\source\repos\Projet test class\Projet test class\bin\Debug\net8.0\Projet test class.dll
+C:\Users\basti\source\repos\Projet test class\Projet test class\bin\Debug\net8.0\Projet test class.pdb
+C:\Users\basti\source\repos\Projet test class\Projet test class\obj\Debug\net8.0\Projet test class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\basti\source\repos\Projet test class\Projet test class\obj\Debug\net8.0\Projet test class.AssemblyInfoInputs.cache
+C:\Users\basti\source\repos\Projet test class\Projet test class\obj\Debug\net8.0\Projet test class.AssemblyInfo.cs
+C:\Users\basti\source\repos\Projet test class\Projet test class\obj\Debug\net8.0\Projet test class.csproj.CoreCompileInputs.cache
+C:\Users\basti\source\repos\Projet test class\Projet test class\obj\Debug\net8.0\Projet test class.dll
+C:\Users\basti\source\repos\Projet test class\Projet test class\obj\Debug\net8.0\refint\Projet test class.dll
+C:\Users\basti\source\repos\Projet test class\Projet test class\obj\Debug\net8.0\Projet test class.pdb
+C:\Users\basti\source\repos\Projet test class\Projet test class\obj\Debug\net8.0\Projet test class.genruntimeconfig.cache
+C:\Users\basti\source\repos\Projet test class\Projet test class\obj\Debug\net8.0\ref\Projet test class.dll
